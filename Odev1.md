@@ -1,1 +1,1 @@
-(uml-cuse-case-example.drawio.png)
+(uml-use-case-example.drawio.png)
